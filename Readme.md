@@ -33,4 +33,4 @@ The `deploy.py` script performs the following steps:
 1. Update the `model_path` and `image_path` variables in the script.
 2. Run the script. Example: `python deploy.py`
 
-For any issues or inquiries, feel free to contact [Your Name](mailto:aashish@iiitmanipur.ac.in).
+For any issues or inquiries, feel free to contact [Aashish Kumar](mailto:aashish@iiitmanipur.ac.in).
