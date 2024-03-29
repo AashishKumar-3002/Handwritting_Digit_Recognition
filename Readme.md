@@ -21,6 +21,7 @@ The `deploy.py` script performs the following steps:
 2. Preprocesses the input image using `preprocess_image()`.
 3. Makes predictions for each digit in the preprocessed image using the loaded model.
 4. Displays the final predictions for each digit.
+5. You can place the test image in the `data` directory and update the `image_path` variable in the script.
 
 ## Dependencies
 - Python 3
